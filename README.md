@@ -18,7 +18,7 @@ Lista de los repos y cuentas de twitter que sigue [@nuevosrepos](https://twitter
 
 El bot está hecho con [IFTTT](https://ifttt.com), no hay código para mostrar, ya no se pueden compartir las recetas de IFTTT con cuentas gratis.
 
-Inspirado en [@newgovewpos](https://twitter.com/newgovrepos), que si tiene publicadas sus [recetas de IFTTT](https://ifttt.com/p/newgovrepos/shared).
+Inspirado en [@newgovrepos](https://twitter.com/newgovrepos), que si tiene publicadas sus [recetas de IFTTT](https://ifttt.com/p/newgovrepos/shared).
 
 
 
