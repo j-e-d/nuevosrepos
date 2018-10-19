@@ -7,7 +7,7 @@ Lista de los repos y cuentas de twitter que sigue [@nuevosrepos](https://twitter
 |nombre|Github|Twitter|
 |------|------|-------|
 |Datos Abiertos del Gobierno de la República Argentina|[datosgobar](https://github.com/datosgobar)|[@datosgobar](https://twitter.com/datosgobar)|
-|Dirección de Datos Públicos y Gobierno Abierto (Provincia de Buenos Aires)|[DatosGBA](https://github.com/DatosGBA)|[@GobAbierto_BA](https://twitter.com/GobAbierto_BA)|
+|Dirección Provincial de Evaluación y Gobierno Abierto (Provincia de Buenos Aires)|[datos-provincia-abierta](https://github.com/datos-provincia-abierta)|[@GobAbierto_PBA](https://twitter.com/GobAbierto_PBA)|
 |Gobierno de la Ciudad Autónoma de Buenos Aires|[gcba](https://github.com/gcba)|[@LABgcba](https://twitter.com/LABgcba)|
 |Instituto Geográfico Nacional|[IGNoficial](https://github.com/IGNoficial)|[@ArgentinaIGN](https://twitter.com/ArgentinaIGN)|
 |Municipalidad de Córdoba|[ModernizacionMuniCBA](https://github.com/ModernizacionMuniCBA)|[@GobAbiertoCba](https://twitter.com/GobAbiertoCba)|
