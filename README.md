@@ -11,6 +11,7 @@ Lista de los repos y cuentas de twitter que sigue [@nuevosrepos](https://twitter
 |Dirección Provincial de Evaluación y Gobierno Abierto (Provincia de Buenos Aires)|[datos-provincia-abierta](https://github.com/datos-provincia-abierta)|[@GobAbierto_PBA](https://twitter.com/GobAbierto_PBA)|
 |Gobierno de la Ciudad Autónoma de Buenos Aires|[gcba](https://github.com/gcba)|[@gcba](https://twitter.com/gcba)|
 |Instituto Geográfico Nacional|[IGNoficial](https://github.com/IGNoficial)|[@ArgentinaIGN](https://twitter.com/ArgentinaIGN)|
+|Instituto Geográfico Nacional|[IGN Argentina](https://github.com/ign-argentina)|[@ArgentinaIGN](https://twitter.com/ArgentinaIGN)|
 |Municipalidad de Córdoba|[ModernizacionMuniCBA](https://github.com/ModernizacionMuniCBA)|[@GobAbiertoCba](https://twitter.com/GobAbiertoCba)|
 |Municipio de Bahía Blanca|[municipiobb](https://github.com/municipiobb)|[@GobAbiertoBB](https://twitter.com/GobAbiertoBB)|
 |Municipio de Rosario|[RosarioCiudad](https://github.com/RosarioCiudad)|[@MuniRosario](https://twitter.com/MuniRosario)|
