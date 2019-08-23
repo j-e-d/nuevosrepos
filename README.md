@@ -11,7 +11,7 @@ Lista de los repos y cuentas de twitter que sigue [@nuevosrepos](https://twitter
 |Centro de Micro y NanoElectrónica (INTI)|[INTI-CMNB](https://github.com/INTI-CMNB)[@intiargentina](https://twitter.com/intiargentina)|
 |Datos Abiertos del Gobierno de la República Argentina|[datosgobar](https://github.com/datosgobar)|[@datosgobar](https://twitter.com/datosgobar)|
 |Dirección Provincial de Evaluación y Gobierno Abierto (Provincia de Buenos Aires)|[datos-provincia-abierta](https://github.com/datos-provincia-abierta)|[@GobAbierto_PBA](https://twitter.com/GobAbierto_PBA)|
-|Educ.ar|[educarlabs](https://github.com/educarlabs)|[@educarportal](https://twitter.com/educarportal|
+|Educ.ar|[educarlabs](https://github.com/educarlabs)|[@educarportal](https://twitter.com/educarportal)|
 |Empresa Argentina de Soluciones Satelitales (ARSAT)|[arsat](https://github.com/arsat)|[@ARSATSA](https://twitter.com/ARSATSA)|
 |GeoINTA|[GeoINTA](https://github.com/GeoINTA)|[@GeoINTA](https://twitter.com/GeoINTA)|
 |Gobierno de la Ciudad Autónoma de Buenos Aires|[gcba](https://github.com/gcba)|[@gcba](https://twitter.com/gcba)|
