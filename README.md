@@ -8,7 +8,7 @@ Lista de los repos y cuentas de twitter que sigue [@nuevosrepos](https://twitter
 |------|------|-------|
 |Aplicaciones Neuquinas de Salud (ANDES)|[andes](https://github.com/andes)|[andesneuquen](https://twitter.com/andesneuquen)|
 |Buenos Aires Data|[datosgcba](https://github.com/datosgcba)|[@BAGobAbierto](https://twitter.com/BAGobAbierto)|
-|Centro de Micro y NanoElectrónica (INTI)|[INTI-CMNB](https://github.com/INTI-CMNB)[@intiargentina](https://twitter.com/intiargentina)|
+|Centro de Micro y NanoElectrónica (INTI)|[INTI-CMNB](https://github.com/INTI-CMNB)|[@intiargentina](https://twitter.com/intiargentina)|
 |Datos Abiertos del Gobierno de la República Argentina|[datosgobar](https://github.com/datosgobar)|[@datosgobar](https://twitter.com/datosgobar)|
 |Dirección Provincial de Evaluación y Gobierno Abierto (Provincia de Buenos Aires)|[datos-provincia-abierta](https://github.com/datos-provincia-abierta)|[@GobAbierto_PBA](https://twitter.com/GobAbierto_PBA)|
 |Educ.ar|[educarlabs](https://github.com/educarlabs)|[@educarportal](https://twitter.com/educarportal)|
