@@ -15,7 +15,7 @@ Lista de los repos y cuentas de twitter que sigue [@nuevosrepos](https://twitter
 |Empresa Argentina de Soluciones Satelitales (ARSAT)|[arsat](https://github.com/arsat)|[@ARSATSA](https://twitter.com/ARSATSA)|
 |GeoINTA|[GeoINTA](https://github.com/GeoINTA)|[@GeoINTA](https://twitter.com/GeoINTA)|
 |Gobierno de la Ciudad Autónoma de Buenos Aires|[gcba](https://github.com/gcba)|[@gcba](https://twitter.com/gcba)|
-|Infraestructura de Datos Espaciales (IDERA)|[idera](https://github.com/idera)[@ide_argentina](https://twitter.com/ide_argentina)|
+|Infraestructura de Datos Espaciales (IDERA)|[idera](https://github.com/idera)|[@ide_argentina](https://twitter.com/ide_argentina)|
 |Instituto Geográfico Nacional|[IGN Argentina](https://github.com/ign-argentina)|[@ArgentinaIGN](https://twitter.com/ArgentinaIGN)|
 |Instituto Geográfico Nacional|[IGNoficial](https://github.com/IGNoficial)|[@ArgentinaIGN](https://twitter.com/ArgentinaIGN)|
 |Instituto Nacional de Estadística y Censos (INDEC)|[indec-it](https://github.com/indec-it)|[@indecargentina](https://twitter.com/indecargentina)|
