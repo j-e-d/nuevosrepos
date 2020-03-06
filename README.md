@@ -7,9 +7,10 @@ Lista de los repos y cuentas de twitter que sigue [@nuevosrepos](https://twitter
 |nombre|Github|Twitter|
 |------|------|-------|
 |Aplicaciones Neuquinas de Salud (ANDES)|[andes](https://github.com/andes)|[andesneuquen](https://twitter.com/andesneuquen)|
-|Buenos Aires Data|[datosgcba](https://github.com/datosgcba)|[@BAGobAbierto](https://twitter.com/BAGobAbierto)|
+|Buenos Aires Data del GCBA|[datosgcba](https://github.com/datosgcba)|[@BAGobAbierto](https://twitter.com/BAGobAbierto)|
 |Centro de Micro y NanoElectrónica (INTI)|[INTI-CMNB](https://github.com/INTI-CMNB)|[@intiargentina](https://twitter.com/intiargentina)|
 |Datos Abiertos del Gobierno de la República Argentina|[datosgobar](https://github.com/datosgobar)|[@datosgobar](https://twitter.com/datosgobar)|
+|Dirección Nacional de Gobernanza e Integración de los Sistemas de Salud del Ministerio de Salud|[SALUD-AR](https://github.com/SALUD-AR)|[@msalnacion](https://twitter.com/msalnacion)|
 |Dirección Provincial de Evaluación y Gobierno Abierto (Provincia de Buenos Aires)|[datos-provincia-abierta](https://github.com/datos-provincia-abierta)|[@GobAbierto_PBA](https://twitter.com/GobAbierto_PBA)|
 |Educ.ar|[educarlabs](https://github.com/educarlabs)|[@educarportal](https://twitter.com/educarportal)|
 |Empresa Argentina de Soluciones Satelitales (ARSAT)|[arsat](https://github.com/arsat)|[@ARSATSA](https://twitter.com/ARSATSA)|
@@ -26,6 +27,7 @@ Lista de los repos y cuentas de twitter que sigue [@nuevosrepos](https://twitter
 |Portal de Datos Abiertos del Min. de Justicia y Derechos Humanos de la República Argentina|[datos-justicia-argentina](https://github.com/datos-justicia-argentina)|[@jusgobar](https://twitter.com/jusgobar)|
 |Secretaría de Gobierno de Energía|[datosminem](https://github.com/minem)|[@Energia_Ar](https://twitter.com/Energia_Ar)|
 |Subsecretaría de Gobierno Digital|[argob](https://github.com/argob)|[@GobDigitalAR](https://twitter.com/GobDigitalAR)|
+|Unidad de Sistemas de Información Geográfica (USIG) del GCBA|[usig](https://github.com/usig)|[@gcba](https://twitter.com/gcba)|
 
 ### Notas
 
